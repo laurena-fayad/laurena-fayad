@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1B1A17&size=30&center=true&vCenter=true&width=900&lines=Hello+World!+🌎+;Salut+monde!+🌎)](https://git.io/typing-svg)
-<hr>
+
 
 <h2>👋🏼 I'm Laurena</h2>
 
@@ -7,14 +7,6 @@
 - 🚀 I’m always open to new learning experiences
 - 📚 I read... A LOT!
 - 🌷 I love everything about nature  
-<br></br>
-
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
-<p>
-  <a href="mailto:laurenafayad@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/laurenafayad/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/laurena_fayad/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-</p>  
 <br></br>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                        
@@ -54,6 +46,14 @@
 <br></br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+<br></br>
+
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+<p>
+  <a href="mailto:laurenafayad@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/laurenafayad/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/laurena_fayad/" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>  
 <br></br>
 
 <h2>😂 Random Dev Joke</h2>
