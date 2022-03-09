@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1B1A17&size=30&center=true&vCenter=true&width=900&lines=Hello+World!+🌎+;Salut+monde!+🌎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&color=1B1A17&size=30&center=true&vCenter=true&width=900&lines=Hello+World!+🌎+;Salut+Monde!+🌎)](https://git.io/typing-svg)
 
 
 <h2>👋🏼 I'm Laurena</h2>
@@ -56,7 +56,4 @@
 </p>  
 
 
-<h2>😂 Random Dev Joke</h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23000&textColor=%23ffff&qColor=%23ffffff&aColor=%23ffffff&borderColor=%23&codeColor=%23ffffff)
 
